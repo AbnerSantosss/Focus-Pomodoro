@@ -17,4 +17,4 @@
 
 
 ![Focus Pomodoro](https://user-images.githubusercontent.com/107922389/175777266-36b2de72-b2c9-4d0a-ac55-43ed9cd3e63a.gif)
- <p style="text-aling: center";>Por Abner 🪄</P>
+ <p style="text-aling: center";>Por Abner 🪄🪄</P>
